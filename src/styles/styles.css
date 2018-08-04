@@ -1,0 +1,18 @@
+.thomas {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+}
+
+.thomas p {
+  align-self: flex-end;
+}
+
+.login {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
