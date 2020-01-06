@@ -22,8 +22,7 @@ const styles = theme => ({
     width: 275,
     color: "#ffffff",
     padding: 10,
-    boxShadow: "0px 10px 15px -11px rgba(0,0,0,1)",
-    borderRadius: 7
+    borderRadius: 2
   },
   form: {
     textAlign: "center",
